@@ -1,0 +1,29 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// Custom styles
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #154DAD;
+    border-color: #154DAD;
+}
+
+.btn-secondary {
+    background-color: #BDCD16;
+    border-color: #BDCD16;
+    color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #154DAD;
+}
